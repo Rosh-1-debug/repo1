@@ -1,0 +1,3 @@
+Stash file demo
+stash1
+stash2
